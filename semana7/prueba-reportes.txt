@@ -1,0 +1,5 @@
+Al consultar la ruta GET /reportes, el sistema muestra todos los reportes registrados previamente mediante la ruta POST.
+
+Cada reporte se almacena en el array reportes y puede visualizarse cuando se consulta la información.
+
+Los datos permanecen guardados mientras el servidor está en ejecución. Si el servidor se reinicia, la información almacenada se pierde porque está guardada únicamente en memoria.
