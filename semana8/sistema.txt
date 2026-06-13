@@ -1,0 +1,5 @@
+El comando systeminfo muestra información detallada del sistema operativo, como la versión de Windows, el nombre del equipo, la memoria instalada y otros datos técnicos.
+
+El comando whoami muestra el nombre del usuario que está utilizando actualmente el sistema. En este caso, el usuario es laptop-9f164nli\algi laso.
+
+Conocer esta información es útil para administrar un servidor porque permite identificar el sistema que se está utilizando, verificar qué usuario tiene acceso y facilitar tareas de mantenimiento, configuración y seguridad.
