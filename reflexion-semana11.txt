@@ -1,0 +1,8 @@
+Una plataforma tecnológica que promueve la participación ciudadana necesita una base de datos para almacenar 
+la información de manera organizada y segura. 
+La autenticación permite identificar a los usuarios y controlar el acceso a determinadas funciones.
+ Además, proteger la información evita que personas no autorizadas accedan a datos sensibles. Esto genera mayor confianza 
+ entre los usuarios y mejora la seguridad del sistema. También facilita el seguimiento de las actividades realizadas dentro de la plataforma. 
+ Una buena organización de los datos permite consultar la información de forma rápida y eficiente. 
+ La protección de la privacidad es fundamental para evitar riesgos y mantener la confidencialidad. 
+Por estas razones, estos elementos son indispensables para el correcto funcionamiento de una plataforma comunitaria.
