@@ -1,0 +1,8 @@
+Durante este curso aprendí que la tecnología puede ayudar a mejorar la participación ciudadana y la organización de las comunidades. 
+Comprendí cómo funciona un sistema desde el backend hasta la base de datos. 
+También aprendí la importancia de almacenar la información de forma organizada y segura.
+ Entendí cómo generar documentos automáticamente y cómo usar herramientas de automatización para enviar notificaciones
+ . Además, conocí la importancia de proteger los datos personales de los usuarios.
+  Este curso me permitió fortalecer mis conocimientos sobre Git y GitHub para compartir proyectos. 
+  Considero que estas herramientas son muy útiles para desarrollar soluciones que beneficien a la comunidad. 
+  Todo lo aprendido me servirá para futuros proyectos de desarrollo de software.
